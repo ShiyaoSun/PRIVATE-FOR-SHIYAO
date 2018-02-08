@@ -17,7 +17,7 @@ You can find a GitHub tutorial [here](https://github.com/AguaClara/aguaclara_tut
 1. Below this, write a sentence or two about yourself:
 
 <!--- Fill you answer here. --->
-
+I am a senior studying Civil Engineering and I am excited to be part of AguaClara. I hope that I can learn how to use Fusion 360 this semester.
 
 
 
@@ -43,6 +43,8 @@ To signify a header, use `#`. The more `#` you use, the smaller the header gets.
 1. Make a header of similar size as Header 3 with whatever text you want:
 
 <!--- Fill you answer here. --->
+### This is cool.
+
 
 ## Emphasis
 There are several different ways to emphasize text: *italics*, **bold**, ***combined***, and ~~strikethrough~~.
@@ -55,7 +57,10 @@ There are several different ways to emphasize text: *italics*, **bold**, ***comb
 1. Write 4 of your favorite words using each type of emphasis:
 
 <!--- Fill you answer here. --->
-
+*Yellow*
+**Purple**
+***Blue***
+~~Grey~~
 
 ## Lists
 Lists are very easy to do. For a bulleted list, use the asterisk and for a numbered list, use the number followed by a period. Hitting `Enter` after a bullet or number continues the list automatically. Hitting `Enter` followed by `Tab` gets you a sub item for a bulleted list. For example:
